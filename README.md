@@ -15,9 +15,10 @@ The document goes on to explain that each button to be pressed can be found by s
 
 You can't hold it much longer, so you decide to figure out the code as you walk to the bathroom. You picture a keypad like this:
 
-1 2 3
-4 5 6
-7 8 9
+1 2 3 <br>
+4 5 6 <br>
+7 8 9 <br>
+
 Suppose your instructions are:
 
 ULL
